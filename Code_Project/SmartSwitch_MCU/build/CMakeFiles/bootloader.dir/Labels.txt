@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+D:/WorkProject/SmartSwitch/Code_Project/SmartSwitch_MCU/build/CMakeFiles/bootloader
+D:/WorkProject/SmartSwitch/Code_Project/SmartSwitch_MCU/build/CMakeFiles/bootloader.rule
+D:/WorkProject/SmartSwitch/Code_Project/SmartSwitch_MCU/build/CMakeFiles/bootloader-complete.rule
+D:/WorkProject/SmartSwitch/Code_Project/SmartSwitch_MCU/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+D:/WorkProject/SmartSwitch/Code_Project/SmartSwitch_MCU/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+D:/WorkProject/SmartSwitch/Code_Project/SmartSwitch_MCU/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+D:/WorkProject/SmartSwitch/Code_Project/SmartSwitch_MCU/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+D:/WorkProject/SmartSwitch/Code_Project/SmartSwitch_MCU/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+D:/WorkProject/SmartSwitch/Code_Project/SmartSwitch_MCU/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+D:/WorkProject/SmartSwitch/Code_Project/SmartSwitch_MCU/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
